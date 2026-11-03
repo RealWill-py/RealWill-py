@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER ANIMATION (Cyberpunk Theme) -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vcenter=true&width=580&height=50&lines=%3C+SYSTEM_INIT%3A+RealWill-py+%2F%3E;Hobbyist+Coder+%26+Gamer;Python+%7C+C%23+%7C+Music+Lover;Code%2C+Games+%26+Soundtracks" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vcenter=true&width=580&height=50&effect=glitch&lines=%3C+WELCOME+SYSTEM_INIT%3A+RealWill-py+%2F%3E;Hobbyist+Coder+%26+Gamer;Python+%7C+C%23+%7C+Music+Lover;Code%2C+Games+%26+Soundtracks" alt="Typing SVG Glitch" />
 
 <br/><br/>
 
@@ -68,10 +68,7 @@
 
 ### ⚡ // GITHUB_ANALYTICS
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RealWill-py&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&title_color=00F0FF&text_color=FFFFFF&icon_color=FF007F&bg_color=0D1117&border_color=FFE600&hide_border=false" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealWill-py&layout=compact&theme=synthwave&title_color=00F0FF&text_color=FFFFFF&icon_color=FF007F&bg_color=0D1117&border_color=FF0055&hide_border=false" alt="Top Languages" />
-</div>
+
 
 <br/>
 
