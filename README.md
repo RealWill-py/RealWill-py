@@ -1,17 +1,15 @@
 <div align="center">
 
 <!-- HEADER ANIMATION (Cyberpunk Theme) -->
-<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vcenter=true&width=580&height=50&lines=%3C+SYSTEM_INIT%3A+RealWill-py+%2F%3E;Hobbyist+Coder+%26+Gamer;Python+%7C+C%23+%7C+Music+Lover;Code%2C+Games+%26+Soundtracks](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vcenter=true&width=580&height=50&lines=%3C+SYSTEM_INIT%3A+RealWill-py+%2F%3E;Hobbyist+Coder+%26+Gamer;Python+%7C+C%23+%7C+Music+Lover;Code%2C+Games+%26+Soundtracks)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vcenter=true&width=580&height=50&lines=%3C+SYSTEM_INIT%3A+RealWill-py+%2F%3E;Hobbyist+Coder+%26+Gamer;Python+%7C+C%23+%7C+Music+Lover;Code%2C+Games+%26+Soundtracks" alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
 <!-- TOP BADGES MATRIX -->
-<p align="center">
-  <a href="[https://www.python.org/](https://www.python.org/)"><img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFE600](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFE600)" alt="Python" /></a>
-  <a href="[https://docs.microsoft.com/en-us/dotnet/csharp/](https://docs.microsoft.com/en-us/dotnet/csharp/)"><img src="[https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)" alt="C#" /></a>
-  <a href="[https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)"><img src="[https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)" alt="JavaScript" /></a>
-  <a href="[https://www.kernel.org/](https://www.kernel.org/)"><img src="[https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)" alt="Linux" /></a>
-</p>
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFE600)](https://www.python.org/)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)
 
 ---
 
@@ -19,8 +17,8 @@
 
 ### 🟨 // SOBRE MIM
 
-    > ACCESSING USER_PROFILE: Will3.14m
-    > STATUS: Exploring, Coding & Gaming
+    > ACCESSING USER_PROFILE: RealWill-py
+    > STATUS: Ready
 
 - 🎧 **Filosofia:** Programador por puro amor à arte do código, aprendizado contínuo e criação de ferramentas sob medida.
 - 🎮 **Gamer & Geek:** Fascinado por universos virtuais, design de jogos, scripts de automação e modificação de sistemas.
@@ -82,3 +80,4 @@
 </div>
 
 ---
+
